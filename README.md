@@ -1,6 +1,9 @@
 # LAN Scanner
 
-an OSINT module to scan LAN for information.
+an OSINT module to scan LAN for information. <br/>
+- arp scan <br/>
+- arp vendor scan <br/>
+- ping scan <br/>
 
 ## License
 
